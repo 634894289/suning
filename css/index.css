@@ -1,0 +1,35 @@
+/*reset*/
+html,
+body{
+	margin: 0;
+	padding: 0;
+}
+/*header*/
+.container{
+	width: 1390px;
+	float: left;
+	height: 2000px;
+}
+.aside_content{
+	width: 33px;
+	background-color: #383838;
+	float: left;
+}
+.header-content .header-bar{
+	height: 100px;
+	background-color: #4d15ae;
+}
+.header-content .header-bar .smallBar{
+	width: 262px;
+	height: 100%;
+	float: left;
+	background: url('../img/smallbar.jpg') no-repeat 131px 21px;
+	background-size: 131px 49px ;
+}
+.header-content .header-bar .bigBar{
+	width: 908px;
+	height: 101px;
+	float: left;
+	background: url(../img/bigbar.jpg) no-repeat;
+	margin-left: 39px;
+}
