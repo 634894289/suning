@@ -4,6 +4,13 @@ body{
 	margin: 0;
 	padding: 0;
 }
+ul li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
 /*header*/
 .container{
 	width: 1390px;
@@ -32,4 +39,10 @@ body{
 	float: left;
 	background: url(../img/bigbar.jpg) no-repeat;
 	margin-left: 39px;
+}
+.nav-bar{
+	height: 35px;
+	width: 100%;
+	background-color: #f5f5f5;
+	border-bottom: 1px solid #eeeeee;
 }

@@ -1,0 +1,23 @@
+{
+  "name": "suning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server ",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/634894289/suning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/634894289/suning/issues"
+  },
+  "homepage": "https://github.com/634894289/suning#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
